@@ -24,3 +24,7 @@ home/away variable.
 
 Although, the data is highly accurate but still the data was checked for outliers and missing values and if
 founded they were treated.
+
+To understand the problems solved and get a better idea of the project, Go through the report file in this project
+
+For any other queries Email me at : Shubhamhanda9@gmail.com
